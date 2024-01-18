@@ -3,7 +3,7 @@
 This repository contains code for paper entitled **"Gut commensal microbe regulated by host Imd signaling pathway accelerates sexual maturation in female fruit fly"**
 
 # Contents
-1. **Transcriptiome analysis**: includes codes for analyzing the transcriptome data of the larva and pupa stage *D. melanogaster* and its gut commensal bacteria.
+1. **Transcriptiome analysis**: includes codes for analyzing the transcriptome data of the larva and pupa stage *D. melanogaster* and its gut commensal bacterium *Acetobacter oryzifermentans*.
    - related to `Transcriptome` directory.
 2. **Aldehyde dehydrogenase sequence analysis**: ALDH  sequence analysis codes and data.
    - related to `ALDH_analysis` directory.
