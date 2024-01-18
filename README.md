@@ -15,4 +15,4 @@ This repository contains code for paper entitled **"Gut commensal microbe regula
    - related to `Figures` directory.
 
 # Data availability
-All contents are also availabe at [zendo](https://zenodo.org/records/10522770) repository
+All contents are also availabe at [Zenodo](https://zenodo.org/records/10522770) repository
