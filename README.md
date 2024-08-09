@@ -7,11 +7,7 @@ This repository contains code for paper entitled **"Gut commensal microbe regula
    - related to `Transcriptome` directory.
 2. **Aldehyde dehydrogenase sequence analysis**: ALDH  sequence analysis codes and data.
    - related to `ALDH_analysis` directory.
-3. **Public 16S amplicon and metagenome sequencing analysis**: codes for analyzing public 16S amplicon and metagenomic sequencing data.
-   - related to `Diversity_analysis` and `Public_data_analysis` directories.
-4. **Machine learning**: related to Random Forest classification, ROC curve, and confusion matrix visualization on the public data.
-   - related to `Machine learning` directory.
-5. **Figure drawing codes**: used for generating the figures presented in the manuscript.
+3. **Figure drawing codes**: used for generating the figures presented in the manuscript.
    - related to `Figures` directory.
 
 # Data availability
