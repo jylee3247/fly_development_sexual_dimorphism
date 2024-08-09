@@ -1,6 +1,6 @@
 # [![DOI](https://zenodo.org/badge/744515058.svg)](https://zenodo.org/doi/10.5281/zenodo.10522769)
 # Summary
-This repository contains code for paper entitled **"Gut commensal microbe regulated by host Imd signaling pathway accelerates sexual maturation in female fruit fly"**
+This repository contains code for paper entitled **"Gut commensal microbe regulated by host Imd signaling pathway accelerates adult emergence in female fruit fly"**
 
 # Contents
 1. **Transcriptiome analysis**: includes codes for analyzing the transcriptome data of the larva and pupa stage *D. melanogaster* and its gut commensal bacterium *Acetobacter oryzifermentans*.
