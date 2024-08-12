@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13303203.svg)](https://doi.org/10.5281/zenodo.13303203)
+
 # Summary
 This repository contains code for paper entitled **"Gut commensal microbe regulated by host Imd signaling pathway accelerates adult emergence in female fruit fly"**
 
@@ -10,4 +12,4 @@ This repository contains code for paper entitled **"Gut commensal microbe regula
    - related to `Figures` directory.
 
 # Data availability
-All contents are also availabe at Zenodo repository
+All contents are also availabe at [Zenodo](https://doi.org/10.5281/zenodo.13303203) repository
