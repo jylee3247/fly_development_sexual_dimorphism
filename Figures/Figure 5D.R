@@ -1,7 +1,7 @@
 ##### Gut commensal microbe regulated by host Imd signaling  pathway accelerates sexual maturation in female fruit fly #####
 
 
-# Draw Figure 6C ----------------------------------------------------------
+# Draw Figure 5D ----------------------------------------------------------
 
 library(treeio)
 library(ggtreeExtra)
